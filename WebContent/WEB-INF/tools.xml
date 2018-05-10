@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tools>
+<toolbox scope="request">
+    <!-- <tool key="map" class="java.util.HashMap"/> -->
+    <tool key="require" class="com.guoke.tools.RemoteRequire"/>
+</toolbox>
+</tools>
